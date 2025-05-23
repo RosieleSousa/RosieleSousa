@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyfigurecollection.net%2Fpicture%2F3621709&psig=AOvVaw0QwpOquQYgpb6zmRiT6QHF&ust=1748087317063000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCB4_PCuY0DFQAAAAAdAAAAABAU"  />
 
 ###
 
