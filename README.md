@@ -3,7 +3,7 @@
 
 ###
 
-<img width=384 heigth=384 align="right" src="https://i.pinimg.com/originals/b8/a4/97/b8a497c6f5fea075057190ef36534dd9.gif"/>
+<img width=384 heigth=384 align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F939915384712496274%2F&psig=AOvVaw1ljozPwjwmHV4I8NmlZEWz&ust=1749239318333000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD3kbmG240DFQAAAAAdAAAAABAK"/>
 
 **HOBBIES**
   * Desenhar(diversos estilos)
