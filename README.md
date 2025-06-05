@@ -46,8 +46,4 @@
 ###
 
 <br clear="both">
-
-![snake gif](https://github.com/RosieleSousa/RosieleSousa/blob/output/snake.svg)
-
-
 ###
