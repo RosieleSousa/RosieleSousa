@@ -1,5 +1,5 @@
 <h2 align="left">⭐Oiie!! Eai tudo bem?!⭐</h2>
-<p align="left"> Meu nome é Rosiele Ent tô tentando melhorar em programação e se eu sei se vai dar certo? não sei mas continuo aprendendo aos poucos...<?p>
+<p align="left"> Meu nome é Rosiele! Ent tô tentando melhorar em programação e se eu sei se vai dar certo? não sei mas continuo aprendendo aos poucos...<?p>
 
 ###
 
