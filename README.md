@@ -22,10 +22,6 @@
 
 ###
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fasukachii%2F722773252997562368%2Fv-i-dont-like-putting-watermarks&psig=AOvVaw1cUCmghYjE5icnjCO927Yp&ust=1749237793815000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC9oOOA240DFQAAAAAdAAAAABAL"  />
-
-###
-
 **EXPERIÊNCIAS...**<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
