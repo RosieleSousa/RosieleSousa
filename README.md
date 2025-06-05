@@ -1,14 +1,15 @@
-<h2 align="left">⭐Oiie!! Eai tudo bem?⭐</h2>
+<h2 align="left">⭐Oiie!! Eai tudo bem?!⭐</h2>
 <p align="left"> Meu nome é Rosiele Ent tô tentando melhorar em programação e se eu sei se vai dar certo? não sei mas continuo aprendendo aos poucos...<?p>
 
 ###
 
 **HOBBIES**
   * Desenhar(diversos estilos)
-  * Ouvir música(uma das minhas bandas preferidas é HIM)
+  * Ouvir música
   * Programar
   * Ler
   * Assistir anime
+  * Viajar
 
 ###
 <div align="center">
