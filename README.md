@@ -34,7 +34,9 @@
 </div>
 
 ###
-**Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
+
+
+## **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -43,7 +45,7 @@
 
   ###
 
-## **STATUS**
+## **Status**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RosieleSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
