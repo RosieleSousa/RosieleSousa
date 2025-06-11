@@ -4,7 +4,7 @@
 ###
 
 
-## **HOBBIES**
+## **Hobbies**
   * Desenhar(diversos estilos)
   * Ouvir música
   * Programar
@@ -17,7 +17,7 @@
 
 ###
 
-**EXPERIÊNCIAS...**<br>
+## **Experiências...**
 <div>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -36,7 +36,8 @@
 ###
 
 
-## **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
+## **Redes Sociais
+**Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
