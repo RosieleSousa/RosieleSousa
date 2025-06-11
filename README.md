@@ -2,7 +2,7 @@
 <p align="left"> Meu nome é Rosiele! Então, tô tentando melhorar em programação... Mas se eu sei se vai dar certo? não sei mas continuo aprendendo aos poucos...<?p>
 
 ###
-
+ <img width=250 heigth=250 align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
 
 ## **Hobbies**
   * Desenhar(diversos estilos)
@@ -11,10 +11,6 @@
   * Ler
   * Assistir anime
   * Viajar
-
-<div align="right">
- <img width=250 heigth=250 src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
- <div/>
 
 
 ###
