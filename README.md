@@ -12,7 +12,6 @@
   * Assistir anime
   * Viajar
 
- <img width=250 heigth=250 align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
 
 
 ###
@@ -45,6 +44,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
   ###
+
+ <img width=250 heigth=250 align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
 
 ## **Status**
 
