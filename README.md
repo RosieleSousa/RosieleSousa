@@ -27,16 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <div/>
-   <div align="right">
-    <img width=150 heigth=150 src="https://i.gifer.com/5FBP.gif"
-    <div/>
 </div>
 
 ###
 
 
-## **Redes Sociais
+## **Redes Sociais**
 **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -48,6 +44,10 @@
 
 
 ## **Status**
+  <div/>
+   <div align="right">
+    <img width=150 heigth=150 src="https://i.gifer.com/5FBP.gif"
+    <div/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RosieleSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
