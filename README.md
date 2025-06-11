@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <div/>
    <div align="right">
-    <img width=30 heigth=30 src="https://i.gifer.com/5FBP.gif"
+    <img width=150 heigth=150 src="https://i.gifer.com/5FBP.gif"
     <div/>
 </div>
 
