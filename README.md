@@ -12,6 +12,7 @@
   * Assistir anime
   * Viajar
 
+ <img width=250 heigth=250 align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
 
 
 ###
@@ -45,7 +46,6 @@
 
   ###
 
- <img width=250 heigth=250 align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
 
 ## **Status**
 
