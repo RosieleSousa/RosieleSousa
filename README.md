@@ -46,7 +46,7 @@
  <a href="https://discord.com/@seuusuario" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
  </a>
-    <img width=150 heigth=150  align="right" src="https://i.gifer.com/5FBP.gif"/>
+    <img width=150 heigth=150  align="right" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/>
 
     
   ###
