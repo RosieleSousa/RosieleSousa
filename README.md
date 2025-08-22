@@ -8,7 +8,7 @@
   * Jogar(Sky e Mine)
   * Desenhar(diversos estilos)
 
- <img width=100 heigth=300 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
+ <img width=150 heigth=300 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
  
   * Ouvir música
   * Programar
