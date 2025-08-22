@@ -6,7 +6,7 @@
 
 ## **Hobbies**
 
- <img width=150 heigth=400 align="right" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/>
+ <img width=150 heigth=400 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
 
   * Jogar(Sky e Mine)
   * Desenhar(diversos estilos)
