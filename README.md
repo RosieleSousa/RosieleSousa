@@ -3,7 +3,7 @@
 
 ###
 
- <img width=300 heigth=300 align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdrbTlpaTFpcXFqc21vMW55b3o3NnJpMzRkdmZ6djQzb2E1bjFpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7BAiFCBQAHxEA/giphy.gif"/>
+ <img width=400 heigth=400 align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdrbTlpaTFpcXFqc21vMW55b3o3NnJpMzRkdmZ6djQzb2E1bjFpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7BAiFCBQAHxEA/giphy.gif"/>
 
  ###
 ## **Hobbies**
