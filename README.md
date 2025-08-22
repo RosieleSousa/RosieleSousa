@@ -3,12 +3,11 @@
 
 ###
 
+ <img width=150 heigth=400 align="right" src="https://i.pinimg.com/originals/7a/f4/58/7af458bc35898f4ffddc076491ea9a37.gif"/>
 
 ## **Hobbies**
   * Jogar(Sky e Mine)
   * Desenhar(diversos estilos)
- <img width=150 heigth=400 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
- 
   * Ouvir música
   * Programar
   * Ler
