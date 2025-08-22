@@ -3,7 +3,6 @@
 
 ###
 
- <img width=100 heigth=200 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
 
 ## **Hobbies**
   * Jogar(Sky e Mine)
@@ -13,7 +12,8 @@
   * Ler
   * Assistir anime
   * Viajar
-  * 
+
+ <img width=100 heigth=200 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
 
 ###
 
