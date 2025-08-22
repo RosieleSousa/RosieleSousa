@@ -7,14 +7,13 @@
 
  ###
 ## **Hobbies**
-
-
   * Desenhar(diversos estilos)
   * Ouvir música
   * Programar
   * Ler
   * Assistir anime
   * Viajar
+  * Jogar(Sky e Mine)
 
 
 ###
