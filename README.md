@@ -20,7 +20,7 @@
 ###
 
 ## **Experiências...**
- <img width=100 heigth=200 align="right" src="https://i.pinimg.com/originals/ae/0c/4b/ae0c4b3bf2763cc1d00a3b37ecc859f6.gif"/>
+ <img width=300 heigth=300 align="center" src="https://i.pinimg.com/originals/ae/0c/4b/ae0c4b3bf2763cc1d00a3b37ecc859f6.gif"/>
 
 <div>
   <div align="left">
