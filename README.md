@@ -20,8 +20,6 @@
 ###
 
 ## **Experiências...**
- <img width=200 heigth=200 align="right" src="https://i.pinimg.com/originals/ae/0c/4b/ae0c4b3bf2763cc1d00a3b37ecc859f6.gif"/>
-
 <div>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
