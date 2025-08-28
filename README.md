@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> 
  </a>
  
- <a href="https://www.tiktok.com/@seuusuario" target="_blank">
+ <a href="https://www.tiktok.com/@_ryo_kkj" target="_blank">
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
 </a>
  <a href="https://discord.com/@seuusuario" target="_blank">
