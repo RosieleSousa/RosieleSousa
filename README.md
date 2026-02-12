@@ -8,7 +8,7 @@
 
  <img width=180 heigth=400 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
 
-  * Jogar (meus preferidos são Sky e Mine)
+  * Jogar
   * Desenhar (diversos estilos)
   * Ouvir música
   * Programar
