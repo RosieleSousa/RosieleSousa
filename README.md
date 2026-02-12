@@ -12,7 +12,7 @@
   * Desenhar (diversos estilos)
   * Ouvir música
   * Programar
-  * Ler (principalmente manhwas)
+  * Ler
   * Assistir anime
   * Viajar
 
