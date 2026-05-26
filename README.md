@@ -21,8 +21,6 @@
 
 ## **Experiências...**
 <div>
- 
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" />
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="30" />
@@ -33,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+   
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" /> 
 </div>
 
 ###
