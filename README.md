@@ -30,16 +30,14 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-   
-<img width="120" height="130" align="right" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  /> 
 </div>
 
 ###
 
 ## **Redes Sociais**
 **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
-   <img width=100 heigth=100  align="right" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/>
+<img width="120" height="130" align="right" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" />
 
 
 <div align="left">
