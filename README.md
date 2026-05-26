@@ -7,6 +7,8 @@
 ## **Hobbies**
 
  <img width=180 heigth=400 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
+ <img width=100 heigth=100  align="right" src="![Uploading image.png…]()
+"/>
 
   * Jogar (principalmente Roblox e Mine)
   * Desenhar (diversos estilos)
