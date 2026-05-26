@@ -37,7 +37,7 @@
 
 ## **Redes Sociais**
 **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
-<img width="120" height="130" align="right" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" />
+<img width="150" height="150" align="right" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" />
 
 
 <div align="left">
