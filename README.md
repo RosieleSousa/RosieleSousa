@@ -37,7 +37,7 @@
 
 ## **Redes Sociais**
 **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
-<img width="100" height="100" alt="image" align="right" src="https://github.com/user-attachments/assets/b76182ac-5033-4c81-82ca-27eb824a18af" />
+<img width="100" height="100" align="right" src="https://github.com/user-attachments/assets/b76182ac-5033-4c81-82ca-27eb824a18af" />
 
 <div align="left">
  <a href="https://www.instagram.com/rosii_souzx/" target="_blank">
