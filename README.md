@@ -31,13 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  /> 
+  <img width="100" height="100" align="right" src="https://github.com/user-attachments/assets/b76182ac-5033-4c81-82ca-27eb824a18af" />
 </div>
 
 ###
 
 ## **Redes Sociais**
 **Se quiser me conhecer melhor, pode dar uma passadinha nas minhas redes sociais:**
-<img width="100" height="100" align="right" src="https://github.com/user-attachments/assets/b76182ac-5033-4c81-82ca-27eb824a18af" />
 
 <div align="left">
  <a href="https://www.instagram.com/rosii_souzx/" target="_blank">
