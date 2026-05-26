@@ -7,7 +7,6 @@
 ## **Hobbies**
 
  <img width=180 heigth=400 align="right" src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif"/>
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" />
 
   * Jogar (principalmente Roblox e Mine)
   * Desenhar (diversos estilos)
@@ -22,6 +21,8 @@
 
 ## **Experiências...**
 <div>
+ 
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f1518e48-3c4f-440d-9e57-09a025636b34" />
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="30" />
