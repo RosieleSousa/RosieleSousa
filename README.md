@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/RosieleSousa/RosieleSousa/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
- [Snake animation](https://github.com/RosieleSousa/RosieleSousa/blob/output/python_bem_boiola.svg)
+ ![Snake animation](https://github.com/RosieleSousa/RosieleSousa/blob/output/python_bem_boiola.svg)
 ##
 
 <br clear="both">
