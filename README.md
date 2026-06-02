@@ -32,7 +32,6 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="30" />
-   <img width="544" height="306" alt="image" src="" />
 
 </div>
 
