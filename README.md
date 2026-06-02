@@ -60,9 +60,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/RosieleSousa/RosieleSousa/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/RosieleSousa/RosieleSousa/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img![Snake animation](https://github.com/RosieleSousa/RosieleSousa/blob/output/python_bem_boiola.svg) />
 </div>
 
+ <img![Snake animation](https://github.com/RosieleSousa/RosieleSousa/blob/output/python_bem_boiola.svg) />
 ###
 
 <br clear="both">
